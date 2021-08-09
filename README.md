@@ -11,5 +11,5 @@
 ## Run example
 - run.py provides an example for you to conduct one experiment and one can refer to const.py to learn the meaning of parameters.
 
-## generate simulation data
+## Generate simulation data
 - please go mvpsimulation/ folder, and the README.md file inside the folder for more information.
