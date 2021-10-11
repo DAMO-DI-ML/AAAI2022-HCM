@@ -13,9 +13,9 @@ args = easydict.EasyDict({
     'cat_index': ['2','3','4','7','8','10','11','13','16','17','18','19','21','22','27','33','36','37'],
     'true_G':'alarm.csv',  # location and name of true graph
     'model_para': {'step1_maxr': 1, 'step3_maxr': 3, 'num_f': 100,
-                   'num_f2': 10, 'indep_pvalue': 0.05, 'downsampling': False,
-                   'cv_split': 0, 'll_type': 'local', 'alpha': 0.0,
-                   'maxNumParents': 10, 'score_type': 'll'
+                   'num_f2': 20, 'indep_pvalue': 0.05, 'downsampling': False,
+                   'cv_split': 5, 'll_type': 'local', 'alpha': 0.0,
+                   'maxNumParents': 10, 'score_type': 'bic'
                   },
     # can used for test step 2's performance with different setting. i.e.,
     # if you already have skeleton file 'alaram_simulate_skl.csv'
