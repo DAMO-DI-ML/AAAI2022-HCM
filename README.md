@@ -1,7 +1,7 @@
 
 ## Souce code of HCM (AAAI 2022 paper)
 
-- **[AAAI'22]** Yan Li, Rui Xia, Chunchen Liu, and Liang Sun. 2022. A Hybrid Causal Structure Learning Algorithm for Mixed-type Data. In Proc. of the AAAI Conference on Artificial Intelligence (AAAI 2022), 2022. [[paper]](https://www.aaai.org/AAAI22Papers/AAAI-12541.LiY.pdf)
+- Yan Li, Rui Xia, Chunchen Liu, and Liang Sun. 2022. A Hybrid Causal Structure Learning Algorithm for Mixed-type Data. In Proc. of the AAAI Conference on Artificial Intelligence (AAAI 2022), 2022. [[paper]](https://www.aaai.org/AAAI22Papers/AAAI-12541.LiY.pdf)
 
 ## Requirements
 1. Install required R package
